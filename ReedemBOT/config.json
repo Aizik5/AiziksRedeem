@@ -1,0 +1,15 @@
+{
+    "token": "",
+    "prefix": "!",
+    "logo":  "",
+    "hex_color": "#0099ff", 
+    "community_name": "", 
+    "role_access_id": "",
+    "code_length": 24,
+    "numbers_in_code": false,
+
+    "database_host": "",
+    "database_user": "",
+    "database_password": "",
+    "database_base": ""
+}
